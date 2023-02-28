@@ -1,4 +1,6 @@
-public class HanoiTower{
+package HanoiTower;
+
+public class Stack {
     public static void main(String[] args) {
         
     }
